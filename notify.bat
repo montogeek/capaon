@@ -1,0 +1,1 @@
+start C:\wamp\bin\php\php5.3.4\php.exe -f "G:\Imagine\Laravel\capaon\artisan" Notify
